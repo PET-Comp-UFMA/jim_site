@@ -1557,6 +1557,40 @@ td, th {
 }
 
 /*--------------------------------------------------------------
+# Index
+--------------------------------------------------------------*/
+/* to-do */
+.comissoes-principais {
+  display: flex;
+  justify-content: center;
+}
+
+.geral, .comite-programa {
+  margin-top: 60px;
+  width: 800px;
+}
+
+.comissao-organizadora {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.list-comissao {
+  display: flex;
+  justify-content: center;
+}
+
+.list-comissao > ul {
+  list-style: none;
+}
+
+.list-comissao > ul > li {
+  padding: 6px;
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 
