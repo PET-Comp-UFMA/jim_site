@@ -13,7 +13,8 @@
             <p>Submissão de artigos: <b>21 de junho de 2020</b></p> 
             <p>Notificação de aceitação: <b>01 de julho de 202</b></p> 
             <p>Envio da versão final: <b>08 de julho de 2020</b></p>
-            <p>Apresentações: <b>Começam dia 13 de julho</b></p> ~~~
+            <p>Apresentações: <b>Começam dia 13 de julho</b></p>
+      ~~~
       
       Submissão de artigos: **21 de junho de 2020**
       Notificação de aceitação: **01 de julho de 2020**
