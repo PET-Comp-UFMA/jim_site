@@ -38,3 +38,25 @@
    * Comitê de Programa adicionado
    * Realização adicionado
 
+* Página de Mostra competitiva:
+   * Conteúdo de Lorem Ipson alterado para conteúdo concreto da página.
+   * Texto sobre a Mostra Competitiva adicionado.
+   * Datas importates adicionadas na forma de texto. **Observação:** Também sujeita a mudança para formato de tabela.
+   * Submissão de Proposta adicionada.
+   * Critérios de Avaliação adicionada.
+   * Dinâmica da Competição.
+   * Premiação adicionada.
+   * Comissão Julgadora adicionada.
+   * Propostas adicionada.
+
+* Página de Maratona:
+   * Conteúdo de Lorem Ipson alterado para conteúdo concreto da página.
+   * Texto sobre a Maratona adicionado.
+   * Datas Importantes adicionado.
+   * Inscrições adicionado.
+   * Formato da competição adicionado.
+   * Ambiente computacional adicionado.
+   * Premiação adicionado.
+   * Organização adicionado.
+   * Coordenadores adicionado.
+
