@@ -41,7 +41,30 @@
 * Página de Mostra competitiva:
    * Conteúdo de Lorem Ipson alterado para conteúdo concreto da página.
    * Texto sobre a Mostra Competitiva adicionado.
-   * Datas importates adicionadas na forma de texto. **Observação:** Também sujeita a mudança para formato de tabela.
+   * Datas importates adicionadas na forma de texto:
+   ~~~html
+       <p>Envio de conteúdo: <b>02 de julho de 2020.</b></p>
+       <p>Notificação de aceitação: <b>08 de julho de 2020.</b></p>
+       <p>Período de votação pelo público: <b>13 de julho a 15 de julho de 2020.</b></p>
+       <p>Divulgação da premiação: <b>17 de julho de 2020.</b></p>
+   ~~~
+   Envio de conteúdo: **02 de julho de 2020.**
+
+   Notificação de aceitação: **08 de julho de 2020.**
+
+   Período de votação pelo público: **13 de julho a 15 de julho de 2020.**
+
+   Divulgação da premiação: **17 de julho de 2020.**
+    
+   **Observação:** Também sujeita a mudança para formato de tabela.
+    
+   Descrição                       | Data
+   ------------------------------- | -----
+   Envio de Conteúdo               | 02 de julho de 2020
+   Notificação de aceitação        | 08 de julho de 2020
+   Período de votação pelo público | 13 de julho a 15 de julho de 2020
+   Divulgação de premiação         | 17 de julho de 2020
+   
    * Submissão de Proposta adicionada.
    * Critérios de Avaliação adicionada.
    * Dinâmica da Competição.
