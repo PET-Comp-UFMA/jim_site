@@ -27,7 +27,7 @@
       Submissão de artigos             | **21 de junho de 2020**
       Notificação de aceitação         | **01 de julho de 2020**
       Envio da versão final            | **08 de julho de 2020**
-      Apresentações                    | **Começam dia 13 de julho
+      Apresentações                    | **Começam dia 13 de julho**
       
    * Submissão de artigos adiciondo
    * Julgamento de trabalhos adicionado
