@@ -83,3 +83,34 @@
    * Organização adicionado.
    * Coordenadores adicionado.
 
+### Data: **26/04/2021**
+### Autor: _Matheus Levy_
+
+* Estrutura:
+  * Criada pasta anexos. Esta contém documentos que são links dentro do site.
+* Página Principal:
+    * Adicionado Sobre o Evento, Onde e Quando alinhados lado a lado.
+    * Adicionado Orientações na forma de lista.
+* Página Chamada de Trabalhos:
+    * Arrumado os links para documentos.
+* Página Mostra Competitiva:
+    * Arrumado centralização da NOTA_FINAL que estava descentralizada.
+* Página de Inscrição:
+    * Removido Lorem Ipson.
+    * Adicionado texto concreto da página.
+* Página de Local:  
+    * Removido Lorem Ipson
+    * Adicionado texto concreto da página.
+    * Adicionado link para o discord e ícone do discord.
+* Página Comissão Organizadora:
+    * Removido Lorem Ipson.
+    * Adicionado texto Concreto da página.
+* Página de Documentos Oficiais:
+    * Adicionado documentos oficias contidos na pasta de anexo do site, adicionado título, descrição e o link para download/visualização dos mesmos em pdf.
+* Página de Anais:
+    * Removido Lorem Ipson.
+    * Adicionado texto concreto da página.
+    * Adicionado link para o site de anais da jim.
+    * Removido botão de baxair anais em pdf.
+* Menu:
+    * Adicionado as versões anteriores e os links para os respectivos sites: de 2018 até 2012.
