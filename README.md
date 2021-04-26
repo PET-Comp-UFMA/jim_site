@@ -2,6 +2,28 @@
 ## PETCOMP
 
 # Desenvolvimento
+Tabela de Desenvolvimento:
+
+Tópico                 | Estado
+-----------------      | ------
+Menu                   | Fechado 
+Footer                 | Finalizado (sujeito a alteração)
+Home                   | Em desenvolvimento
+Programação            | Não iniciado
+Chamada de Trabalhos   | Fechado
+Mostra competitiva     | Em desenvolvimento
+Maratona               | Fechado
+Inscrições             | Fechado
+Local                  | Em desenvolvimento
+Comissão Organizadora  | Fechado
+Documentos Oficiais    | Finalizado (sujeito a alteração)
+Anais                  | Fechado
+Certificados           | Não iniciado
+Deliberações           | Não iniciado
+Versões Anteriores     | Fechado
+
+
+
 ### Data: **25/04/2021**
 ### Autor: _Matheus Levy_
 * Página de Chamada de Trabalhos:
@@ -88,9 +110,12 @@
 
 * Estrutura:
   * Criada pasta anexos. Esta contém documentos que são links dentro do site.
+  * Alterado footer.
+  * Adicionado Banner para o header.
 * Página Principal:
     * Adicionado Sobre o Evento, Onde e Quando alinhados lado a lado.
     * Adicionado Orientações na forma de lista.
+    * Substituido carrossel por um único banner com link para o vídeo.
 * Página Chamada de Trabalhos:
     * Arrumado os links para documentos.
 * Página Mostra Competitiva:
