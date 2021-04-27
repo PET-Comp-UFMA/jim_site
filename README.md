@@ -14,7 +14,7 @@ Chamada de Trabalhos   | Fechado
 Mostra competitiva     | Fechado
 Maratona               | Fechado
 Inscrições             | Fechado
-Local                  | Em desenvolvimento
+Local                  | Fechado
 Comissão Organizadora  | Fechado
 Documentos Oficiais    | Finalizado (sujeito a alteração)
 Anais                  | Fechado
