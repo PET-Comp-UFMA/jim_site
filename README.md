@@ -18,10 +18,11 @@ Local                  | Fechado
 Comissão Organizadora  | Fechado
 Documentos Oficiais    | Finalizado (sujeito a alteração)
 Anais                  | Fechado
-Certificados           | Não iniciado
+Certificados           | Fechado
 Deliberações           | Não iniciado
 Versões Anteriores     | Fechado
 
+**Observação: ** Alterar os links do footer para target: "_blank"
 
 
 ### Data: **25/04/2021**
@@ -146,9 +147,19 @@ Versões Anteriores     | Fechado
 * Estrutura:
     * Alterado o banner do menu.
     * Alterado os arquivos das logos dos patrocinadores.
+    * Adicionado página de tutorias e webinars.
+    * Adicionado ao menu, dentro de informações, a página de tutoriais e webinars
 * Página Principal:
     * Adicionado link no ícone do discord na seção "Onde?".
     * Alterado o título da seção de "Organização" para "Organização & Apoio & Patrocíonio"
     * Alterado Patrocinadores do evento para os reais patrocinadores da ejim 2020.
 * Página de inscrevação:
     * Inserido link no botão inscreva-se para a linktree da jim.
+* Página de Certificados:
+    * Removido Lorem Ipson.
+    * Adicionado conteúdo concreto da página.
+* Página de Tutoriais e Webinars:
+    * Inseridos todos os tutorias e seus reumos.
+    * Inseridos todos os webnarios e seus palestrantes.
+* Página de Mostra competitiva:
+    * Adicionado link para o form dentro de Submissão de Proposta
