@@ -150,3 +150,5 @@ Versões Anteriores     | Fechado
     * Adicionado link no ícone do discord na seção "Onde?".
     * Alterado o título da seção de "Organização" para "Organização & Apoio & Patrocíonio"
     * Alterado Patrocinadores do evento para os reais patrocinadores da ejim 2020.
+* Página de inscrevação:
+    * Inserido link no botão inscreva-se para a linktree da jim.
