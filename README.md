@@ -139,3 +139,14 @@ Versões Anteriores     | Fechado
     * Removido botão de baxair anais em pdf.
 * Menu:
     * Adicionado as versões anteriores e os links para os respectivos sites: de 2018 até 2012.
+
+### Data: **27/04/2021**
+### Autor: _Matheus Levy_
+
+* Estrutura:
+    * Alterado o banner do menu.
+    * Alterado os arquivos das logos dos patrocinadores.
+* Página Principal:
+    * Adicionado link no ícone do discord na seção "Onde?".
+    * Alterado o título da seção de "Organização" para "Organização & Apoio & Patrocíonio"
+    * Alterado Patrocinadores do evento para os reais patrocinadores da ejim 2020.
