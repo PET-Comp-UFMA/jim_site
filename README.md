@@ -9,12 +9,12 @@ Tópico                 | Estado
 Menu                   | Fechado 
 Footer                 | Finalizado (sujeito a alteração)
 Home                   | Em desenvolvimento
-Programação            | Não iniciado
+Programação            | Fechado
 Chamada de Trabalhos   | Fechado
-Mostra competitiva     | Em desenvolvimento
+Mostra competitiva     | Fechado
 Maratona               | Fechado
 Inscrições             | Fechado
-Local                  | Em desenvolvimento
+Local                  | Fechado
 Comissão Organizadora  | Fechado
 Documentos Oficiais    | Finalizado (sujeito a alteração)
 Anais                  | Fechado
