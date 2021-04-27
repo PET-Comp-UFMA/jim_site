@@ -9,7 +9,7 @@ Tópico                 | Estado
 Menu                   | Fechado 
 Footer                 | Finalizado (sujeito a alteração)
 Home                   | Em desenvolvimento
-Programação            | Não iniciado
+Programação            | Fechado
 Chamada de Trabalhos   | Fechado
 Mostra competitiva     | Fechado
 Maratona               | Fechado
