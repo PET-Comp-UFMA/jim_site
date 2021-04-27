@@ -11,7 +11,7 @@ Footer                 | Finalizado (sujeito a alteração)
 Home                   | Em desenvolvimento
 Programação            | Não iniciado
 Chamada de Trabalhos   | Fechado
-Mostra competitiva     | Em desenvolvimento
+Mostra competitiva     | Fechado
 Maratona               | Fechado
 Inscrições             | Fechado
 Local                  | Em desenvolvimento
