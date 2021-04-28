@@ -177,7 +177,7 @@ Versões Anteriores     | Fechado
 * Página de Localização:
     * Adicionado footer (estava sem footer).
 
-### Data: **27/04/2021**
+### Data: **28/04/2021**
 ### Autor: _Matheus Levy_
 
 * Estrutura:
