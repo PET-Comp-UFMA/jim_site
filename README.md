@@ -13,7 +13,7 @@ Programação            | Alterar para Tabela
 Chamada de Trabalhos   | Fechado
 Mostra competitiva     | Fechado
 Maratona               | Fechado
-Inscrições             | Fechado
+Inscrições             | Removido
 Local                  | Fechado
 Comissão Organizadora  | Fechado
 Documentos Oficiais    | Finalizado (sujeito a alteração)
@@ -23,7 +23,6 @@ Deliberações           | Removido
 Versões Anteriores     | Fechado
 
 **Notas:** 
-* Remover página de Inscrição
 * Alterar paleta de cores
 * Alterar Página de programação
 
@@ -177,3 +176,16 @@ Versões Anteriores     | Fechado
     * Adicionado link para o form dentro de Submissão de Proposta
 * Página de Localização:
     * Adicionado footer (estava sem footer).
+
+### Data: **27/04/2021**
+### Autor: _Matheus Levy_
+
+* Estrutura:
+    * Removido a página de inscrição.
+* Menu:
+    * Removido inscrição do menu.
+* Página Principal:
+    * Alterado cores do título do banner com vídeo.
+    * Alterado cor do botão de play do vídeo no banner.
+* Página de Programação:
+    * Corrigindo link do menu, que estava, redirecionando para inscrição.
