@@ -9,7 +9,7 @@ Tópico                 | Estado
 Menu                   | Fechado 
 Footer                 | Finalizado (sujeito a alteração)
 Home                   | Fechado
-Programação            | Fechado
+Programação            | Alterar para Tabela
 Chamada de Trabalhos   | Fechado
 Mostra competitiva     | Fechado
 Maratona               | Fechado
@@ -21,6 +21,11 @@ Anais                  | Fechado
 Certificados           | Fechado
 Deliberações           | Removido
 Versões Anteriores     | Fechado
+
+** Notas: ** 
+* Remover página de Inscrição
+* Alterar paleta de cores
+* Alterar Página de programação
 
 ### Data: **25/04/2021**
 ### Autor: _Matheus Levy_
