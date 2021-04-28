@@ -22,7 +22,7 @@ Certificados           | Fechado
 Deliberações           | Removido
 Versões Anteriores     | Fechado
 
-** Notas: ** 
+**Notas:** 
 * Remover página de Inscrição
 * Alterar paleta de cores
 * Alterar Página de programação
