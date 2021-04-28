@@ -147,6 +147,9 @@ Versões Anteriores     | Fechado
     * Adicionado página de tutorias e webinars.
     * Adicionado ao menu, dentro de informações, a página de tutoriais e webinars.
     * Removido a página de Delibereações.
+    * Imagens não utilizadas no site foram excluidas.
+    * Adicionados novos favicon da logo da jim 2020.
+    * Favicon das páginas substituidos pelo novos da jim 2020.
 * Menu:
     * Removido Deliberações de Pós-Evento dentro do menu.
 * Página Principal:
