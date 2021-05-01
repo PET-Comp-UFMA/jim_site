@@ -1567,6 +1567,40 @@ td, th {
 }
 
 /*--------------------------------------------------------------
+# Programação JIM 2018 Section
+--------------------------------------------------------------*/
+
+.tabela-programacao {
+  border-collapse: collapse;
+  font-size: normal;
+  margin: 40px auto;
+  width: 60%;
+}
+
+.tabela-programacao th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.tabela-programacao th {
+  background: #000;
+  color: #fff;
+  font-weight: 700;
+}
+
+.hour {
+  font-weight: 700;
+}
+
+.gray-line {
+  background: #ECECEC;
+}
+
+.intervalo {
+  background: #E9ECEF;
+}
+/*--------------------------------------------------------------
 # Index
 --------------------------------------------------------------*/
 /* to-do */
