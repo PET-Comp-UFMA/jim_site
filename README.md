@@ -2,7 +2,7 @@
 ## PETCOMP
 
 # Desenvolvimento
-Tabela de Desenvolvimento:
+Tabela de Desenvolvimento jim 2020:
 
 Tópico                 | Estado
 -----------------      | ------
@@ -17,6 +17,26 @@ Inscrições             | Removido
 Local                  | Fechado
 Comissão Organizadora  | Fechado
 Documentos Oficiais    | Finalizado (sujeito a alteração)
+Anais                  | Fechado
+Certificados           | Fechado
+Deliberações           | Removido
+Versões Anteriores     | Fechado
+
+
+Tabela de Desenvolvimento JIM 2018:
+Tópico                 | Estado
+-----------------      | ------
+Menu                   | Fechado 
+Footer                 | Finalizado (sujeito a alteração)
+Home                   | Fechado
+Programação            | Em Desenvolvimento
+Chamada de Trabalhos   | Fechado
+Mostra competitiva     | Removido
+Maratona               | Removido
+Inscrições             | Removido
+Local                  | Fechado
+Comissão Organizadora  | Fechado
+Documentos Oficiais    | Em desenvolvimento
 Anais                  | Fechado
 Certificados           | Fechado
 Deliberações           | Removido
@@ -189,3 +209,43 @@ Versões Anteriores     | Fechado
     * Alterado cor do botão de play do vídeo no banner.
 * Página de Programação:
     * Corrigindo link do menu, que estava, redirecionando para inscrição.
+
+### Data: **02/05/2021**
+### Autor: _Matheus Levy_
+
+* Jim 2020:
+* Página Principal:
+  * Corrigido Overflow na página principal.
+* Página de Anais:
+  * Alterado o texto para em breve.
+
+* Jim 2018:
+* Menu:
+  * Dropdown de chamadas removido. Alterado apenas para tópico chamadas de trabalhos.
+  * Deliberações removido do menu.
+* Estrutura:
+  * Alterado Título das páginas para "JIM2018"
+  * Inserido favicons em todas as páginas.
+* Página principal:
+  * Alterado banner do header.
+* Página de Local:
+   * Inserido iframe do google maps:
+   ~~~html
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3985.842573853872!2d-44.309686!3d-2.558035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x780f0a32464f4178!2sCCET!5e0!3m2!1spt-BR!2sbr!4v1619811714592!5m2!1spt-BR!2sbr" width="1100" height="400" style="border:0;" allowfullscreen="" loading="lazy" frameborder="0" style="border:0" ></iframe>
+   ~~~
+   * Inserido Informaões.
+* Página de Comissão Organizadora:
+  * Inserido Coordenação Geral.
+  * Inserido Coordenação do Comitê de Programa.
+  * Inserido Comissão Organização.
+* Página de Certificados:
+  * Inserido texto "em breve".
+* Página de Chamada de trabahos.
+  * Inserido texto sobre jim 2018.
+  * Inserido temas de interesse.
+  * Inserido Datas Importantes como "A definir".
+  * Inserido Submissão de artigos.
+  * Inserido Julgamento dos trabalhos.
+  * Inserido  Apresentação dos trabalhos.
+  * Inserido Comitê de Programa.
+  * Inserido Realização.
