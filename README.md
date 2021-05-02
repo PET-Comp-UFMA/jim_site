@@ -29,7 +29,7 @@ Tópico                 | Estado
 Menu                   | Fechado 
 Footer                 | Finalizado (sujeito a alteração)
 Home                   | Fechado
-Programação            | Em Desenvolvimento
+Programação            | Fechado
 Chamada de Trabalhos   | Fechado
 Mostra competitiva     | Removido
 Maratona               | Removido
@@ -249,3 +249,6 @@ Versões Anteriores     | Fechado
   * Inserido  Apresentação dos trabalhos.
   * Inserido Comitê de Programa.
   * Inserido Realização.
+* Página de Programação:
+  * Tabela alterada para modelo do Template Geral de Eventos.
+  * Tabela antiga comentada: **Validar qual modelo de tabela é melhor para ser utilizado**
