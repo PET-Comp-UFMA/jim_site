@@ -1030,6 +1030,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 30px;
 }
 
+#mobile-nav ul li .dropdown-item {
+  color: #000;
+}
+
 #schedule .nav-tabs li {
   display: inline-block;
   margin-bottom: 0;
