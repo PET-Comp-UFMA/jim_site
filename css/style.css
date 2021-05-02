@@ -271,6 +271,10 @@ h6 {
   padding-right: 30px;
 }
 
+#mobile-nav ul li .dropdown-item {
+  color: #000;
+}
+
 .sf-arrows .sf-with-ul:after {
   content: "\f107";
   position: absolute;
