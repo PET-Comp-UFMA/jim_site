@@ -253,3 +253,9 @@ Versões Anteriores     | Fechado
 * Página de Programação:
   * Tabela alterada para modelo do Template Geral de Eventos.
   * Tabela antiga comentada: **Validar qual modelo de tabela é melhor para ser utilizado**
+
+### Data: **02/05/2021**
+### Autor: _Matheus Levy_
+
+* Estrutura:
+  * Alterado o título das páginas por "JIM2020".
