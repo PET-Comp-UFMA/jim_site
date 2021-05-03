@@ -1581,10 +1581,11 @@ td, th {
   width: 60%;
 }
 
-.tabela-programacao th, td {
-  border: 1px solid #ccc;
-  padding: 10px;
-  text-align: left;
+td, th {
+  border: 2px solid #6ec5ff;
+  font-weight: 300;
+  padding: 4px;
+  text-align: center;
 }
 
 .tabela-programacao th {

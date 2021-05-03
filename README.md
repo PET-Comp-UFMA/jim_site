@@ -22,6 +22,7 @@ Certificados           | Fechado
 Deliberações           | Removido
 Versões Anteriores     | Fechado
 
+**Observações:** Alterar o título da página. Alterar os links das versões anteriores de 2018.
 
 Tabela de Desenvolvimento JIM 2018:
 Tópico                 | Estado
@@ -255,4 +256,13 @@ Versões Anteriores     | Fechado
 * Página de Programação:
   * Tabela alterada para modelo do Template Geral de Eventos.
   * Tabela antiga comentada: **Validar qual modelo de tabela é melhor para ser utilizado**
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+### Data: **02/05/2021**
+### Autor: _Matheus Levy_
+
+* Estrutura:
+  * Alterado o título das páginas por "JIM2020".
 >>>>>>> master
