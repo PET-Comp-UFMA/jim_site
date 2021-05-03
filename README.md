@@ -22,6 +22,7 @@ Certificados           | Fechado
 Deliberações           | Removido
 Versões Anteriores     | Fechado
 
+**Observações:** Alterar o título da página. Alterar os links das versões anteriores de 2018.
 
 Tabela de Desenvolvimento JIM 2018:
 Tópico                 | Estado
