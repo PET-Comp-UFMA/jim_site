@@ -115,7 +115,7 @@ footer.fixar-rodape{
     left: 0;
 }
 
-@media (min-height: 611px) {
+@media (min-height: 680px) {
     footer.fixar-rodape{
         background: #ffab62;
         width: 100%;
